@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("mailer")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("mailer")>
+<Assembly: AssemblyTitle("Roasting Mailer")>
+<Assembly: AssemblyDescription("Email Spoofer")>
+<Assembly: AssemblyCompany("Roasting247")>
+<Assembly: AssemblyProduct("Roasting Mailer")>
 <Assembly: AssemblyCopyright("Copyright ©  2021")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTrademark("Roasting247 on Github")>
 
 <Assembly: ComVisible(False)>
 
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("2.0.0.1")>
+<Assembly: AssemblyFileVersion("2.0.0.1")>
