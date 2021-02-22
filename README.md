@@ -1,5 +1,5 @@
 # SpoofEmailer2
-
+<html>
 <head>
 <style>
 h3 {text-align: center;}
@@ -21,3 +21,4 @@ You will need to install the krypton component system into VS, but if not, the f
 
 Disclaimer: I am not resposible for any illegal actions with the use of my programs
 </h4>
+</html>
