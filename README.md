@@ -1,6 +1,6 @@
 # SpoofEmailer2
 
-<h3> A semi complex Spoof emailer. No bugs or errors, that I can find, if you find any please let me know so I can do a quick fix
+<center> <h3> A semi complex Spoof emailer. No bugs or errors, that I can find, if you find any please let me know so I can do a quick fix
 
 Also, for the smtp setup, I found that either using AWS with an smtp service or smtp2go works really well. So enjoy!
 
@@ -11,3 +11,4 @@ You will need to install the krypton component system into VS, but if not, the f
 <img src="https://raw.githubusercontent.com/roast247/SpoofMailer2/main/Mailer%202.0.png">
 
 Disclaimer: I am not resposible for any illegal actions with the use of my programs
+</center>
