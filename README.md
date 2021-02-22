@@ -1,5 +1,5 @@
-# SpoofEmailer2
-
+<h1 align="center">SpoofEmailer2</h1>
+<hr>
 <h4 align="center"> A semi complex Spoof emailer. No bugs or errors, that I can find, if you find any please let me know so I can do a quick fix
 
 Also, for the smtp setup, I found that either using AWS with an smtp service or smtp2go works really well. So enjoy!
